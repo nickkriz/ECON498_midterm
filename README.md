@@ -4,7 +4,7 @@ Downloads intervals of data from two cryptocurrency sites. The program will webs
 
 Basic Usage
 
-Using this program is easy. In order to use you must first be connected to internet so that the program may use the html address to start the request. 
+Using this program is easy. In order to use you must first be connected to internet so that the program may use the html address to start the request. Additionally, you ust be certain that your API is not blocked from the site and can allow for easy access. During my work, I was unfortunatly limited to the coingecko.com site and therefore the data from the other website was taken from coinrankings.com.
 
 To perform the initial steps of this program you must first generate a series of html files from both websites. This will be done on two seperate terminals to ensure that both websites are getting webscraped at the same time. 
 
@@ -15,9 +15,11 @@ python coinrank_request.py
 
 on different terminals to start the request.
 
-Next, you must wait the allocated time that is placed into the program. In this case, we will be using a 48 hour period to continuosly webscrape the site for any changes in the data on either site. 
+Next, you must wait the allocated time that is placed into the program. In this case, we will be using a 48 hour period to continuosly webscrape the site for any changes in the data on either site. Due to time limitations and technology issues, the dataset was taken only over a short period of time, however all 500 top currencies were downloaded properly to html files. 
 
-First, it scans the user database for any folders that match the ones needing to contain the html files from both websites. If the program notices no folder, it automatically creates one for you that contains each html with the corresponding time stamp.
+Within the file, the website is changed 5 times each interval, one time for each page to ensure that all 500 are taken and not just the 100 on the main screen of the site. 
+
+First, the request file scans the user database for any folders that match the ones needing to contain the html files from both websites. If the program notices no folder, it automatically creates one for you that contains each html with the corresponding time stamp.
 
 Once the html files are properly sorted and stored, the user will then enter the corresponding commands into thier terminal:
 
