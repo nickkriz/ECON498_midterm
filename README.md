@@ -15,7 +15,7 @@ python coinrank_request.py
 
 on different terminals to start the request.
 
-Next, you must wait the allocated time that is placed into the program. In this case, we will be using a 48 hour period to continuosly webscrape the site for any changes in the data on either site. Due to time limitations and technology issues, the dataset was taken only over a short period of time, however all 500 top currencies were downloaded properly to html files. 
+Next, you must wait the allocated time that is placed into the program. In this case, we will be using a 48 hour period to continuosly webscrape the site for any changes in the data on either site. Due to time limitations and technology issues, the dataset was taken only over a short period of time, however all 500 top currencies were downloaded properly to html files. Additionally, the dataset for the top 500 currencies for the other website (coinrankings.com) was also done on a shorter interval and therefore won't show much change. However, the interval is enough to show that the program was able to webscrape the data from the website and compare it to the data of coinmarketcap.com
 
 Within the file, the website is changed 5 times each interval, one time for each page to ensure that all 500 are taken and not just the 100 on the main screen of the site. 
 
