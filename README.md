@@ -35,3 +35,6 @@ Now that there are two properly created datasets for user usage, you can now use
 
 Programs can be used to create machines that can learn the overall data that was received about the cryptocurrencies from the website and use it to make predicitons about future numbers or even data that is not in existence. For example, testing an x value that lies between two other x values to see what the correspoding result would be. 
 
+Other Information
+
+Inlcuded in my work is a folder called "before_getting_blocked" and within that folder there is a file called "previous_progress.txt" that includes a detailed report of where I was at the point in time when I was blocked from the coingecko site. The file is written in a text format as well so it can be read similarly to the readme file. Within the detailed report, I included how the new files that I have created using coinranking.com are similar to the previous files that I made using the coingecko site. The folder inlcudes just the written statement of what happened and the progress as I explain in the file that my previous html files, request and parse file were replaced by the new files associated with coinranking instead. 
