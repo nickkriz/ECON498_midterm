@@ -1,0 +1,401 @@
+,24hr growth,link,marketcap,name,price,symbol,time
+0,0.54,/coin/Qwsogvtv82FCd+bitcoin-btc,28460,Bitcoin,15351.86,BTC,2.02011E+13
+1,3.56,/coin/razxDUgYGNAdQ+ethereum-eth,5181,Ethereum,459.34,ETH,2.02011E+13
+2,0.59,/coin/HIVsRcGKkPFtW+tetherusd-usdt,1739,Tether USD,0.9956,USDT,2.02011E+13
+3,2.93,/coin/-l8Mn2pVlRs-p+xrp-xrp,1132,XRP,0.2568,XRP,2.02011E+13
+4,6.88,/coin/VLqpJwogdhHNb+chainlink-link,518,Chainlink,13.26,LINK,2.02011E+13
+5,1.37,/coin/ZlZpzOJo43mIo+bitcoincash-bch,481,Bitcoin Cash,259,BCH,2.02011E+13
+6,3.45,/coin/25W7FG7om+polkadot-dot,452,Polkadot,4.47,DOT,2.02011E+13
+7,1.19,/coin/D7B1x_ks7WhV5+litecoin-ltc,395,Litecoin,59.58,LTC,2.02011E+13
+8,1.63,/coin/WcwrkfNI4FUAe+binancecoin-bnb,356,Binance Coin,28.34,BNB,2.02011E+13
+9,1.62,/coin/qzawljRxB5bYu+cardano-ada,332,Cardano,0.1067,ADA,2.02011E+13
+10,4.54,/coin/Mtfb0obXVh59u+wrappedether-weth,320,Wrapped Ether,458.62,WETH,2.02011E+13
+11,12.66,/coin/9K7m6ufraZ6gh+hex-hex,312,HEX,0.00775,HEX,2.02011E+13
+12,0.79,/coin/VcMY11NONHSA0+bitcoinsv-bsv,293,Bitcoin SV,158.17,BSV,2.02011E+13
+13,0.65,/coin/aKzUVe4Hh_CON+usdc-usdc,282,USDC,0.9935,USDC,2.02011E+13
+14,0.85,/coin/iAzbfXiBBKkR6+eos-eos,233,EOS,2.52,EOS,2.02011E+13
+15,0.97,/coin/3mVx2FX_iJFp5+monero-xmr,207,Monero,116.65,XMR,2.02011E+13
+16,0.68,/coin/x4WXHge-vvFY+wrappedbtc-wbtc,189,Wrapped BTC,15330.51,WBTC,2.02011E+13
+17,1.04,/coin/qUhEFk1I61atv+tron-trx,166,TRON,0.02504,TRX,2.02011E+13
+18,1.83,/coin/fsIbGOEJWbzxG+tezos-xtz,163,Tezos,2.18,XTZ,2.02011E+13
+19,1.5,/coin/f3iaFeCKEmkaZ+stellar-xlm,163,Stellar,0.0807,XLM,2.02011E+13
+20,1.2,/coin/65PHZTpmE55b+cryptocomchain-cro,149,Crypto.com Chain,0.0702,CRO,2.02011E+13
+21,0.13,/coin/PDKcptVnzJTmN+okb-okb,128,OKB,4.63,OKB,2.02011E+13
+22,0.37,/coin/mqtUpyBxu8O8+leo-leo,127,LEO,1.29,LEO,2.02011E+13
+23,0.4,/coin/Knsels4_Ol-Ny+cosmos-atom,122,Cosmos,5.12,ATOM,2.02011E+13
+24,2.98,/coin/cVaOmQWainv7g+neo-neo,114,NEO,15.75,NEO,2.02011E+13
+25,1.42,/coin/ymQub4fuB+filecoin-fil,97564,Filecoin,30.49,FIL,2.02011E+13
+26,8.94,/coin/DZtb-6X8yCx0h+nem-xem,95975,NEM,0.1356,XEM,2.02011E+13
+27,18.52,/coin/_H5FVG9iW+uniswap-uni,83949,Uniswap,3.14,UNI,2.02011E+13
+28,11.96,/coin/TpHE2IShQw-sJ+algorand-algo,80709,Algorand,0.289,ALGO,2.02011E+13
+29,26.18,/coin/ixgUfzmLR+aave-aave,77823,Aave,68.11,AAVE,2.02011E+13
+30,0.84,/coin/h0XuVJXY+bitcoinvault-btcv,77602,Bitcoin Vault,83.05,BTCV,2.02011E+13
+31,5.86,/coin/FEbS54wxo4oIl+vechain-vet,75380,VeChain,0.01162,VET,2.02011E+13
+32,2.03,/coin/DXwP4wF9ksbBO+huobitoken-ht,75241,Huobi Token,3.67,HT,2.02011E+13
+33,2.25,/coin/LtWwuVANwRzV_+iota-miota,71403,IOTA,0.2569,MIOTA,2.02011E+13
+34,2.79,/coin/rk5XwL6mIjUDp+celsiusnetwork-cel,69396,Celsius Network,1.92,CEL,2.02011E+13
+35,2.06,/coin/C9DwH-T7MEGmo+dash-dash,68100,Dash,69.46,DASH,2.02011E+13
+36,0.95,/coin/B42IRxNtoYmwK+thetatoken-theta,64683,Theta Token,0.6468,THETA,2.02011E+13
+37,3.75,/coin/aRGRWLf2RYNq4+zcash-zec,62910,Zcash,60.22,ZEC,2.02011E+13
+38,0.3,/coin/MoTuySvg7+multi-collateraldai-dai,61740,Multi-Collateral Dai,1,DAI,2.02011E+13
+39,1.58,/coin/hnfQfsYfeIGUQ+ethereumclassic-etc,59970,Ethereum Classic,5.16,ETC,2.02011E+13
+40,0.52,/coin/vSo2fu9iE1s0Y+busd-busd,59578,BUSD ,0.9938,BUSD,2.02011E+13
+41,28.35,/coin/dYuh_N0n1+yearnfinance-yfi,56959,yearn.finance,19006.65,YFI,2.02011E+13
+42,6.18,/coin/qFakph2rpuMOL+maker-mkr,50411,Maker,554.22,MKR,2.02011E+13
+43,14.23,/coin/sgxZRXbK0FDc+synthetixnetwork-snx,48333,Synthetix Network,4.69,SNX,2.02011E+13
+44,6.22,/coin/_tpssiAXwrHfr+omisego-omg,46659,OmiseGo,3.33,OMG,2.02011E+13
+45,0.59,/coin/B8xT718SbVhhh+paxosstandard-pax,43120,Paxos Standard,0.9933,PAX,2.02011E+13
+46,11.58,/coin/6Cnl5FOCZ+uma-uma,42947,UMA,7.75,UMA,2.02011E+13
+47,12.35,/coin/7Dg6y_Ywg+compound-comp,41514,Compound,105.92,COMP,2.02011E+13
+48,0.48,/coin/J8xX4Fc9PxEat+waves-waves,39452,Waves,3.81,WAVES,2.02011E+13
+49,4.78,/coin/a91GCGd_u96cF+dogecoin-doge,35445,Dogecoin,0.00279,DOGE,2.02011E+13
+50,4.5,/coin/NfeOYfNcl+ftxtoken-ftt,34163,FTX Token,3.7,FTT,2.02011E+13
+51,0.37,/coin/bu0VTIyFnnh1u+revain-rev,31885,Revain,0.01046,REV,2.02011E+13
+52,5.56,/coin/ePlOuwd_e+kusama-ksm,31219,Kusama,34.76,KSM,2.02011E+13
+53,3.66,/coin/itpeyyriqoiG2+ontology-ont,30890,Ontology,0.4847,ONT,2.02011E+13
+54,3.53,/coin/AaQUAs2Mc+terra-luna,30791,Terra,0.3086,LUNA,2.02011E+13
+55,5.61,/coin/pOnT-qfd-RN7W+basicattentiontoken-bat,30773,Basic Attention Token,0.2059,BAT,2.02011E+13
+56,0.83,/coin/45H4HIbe2+renbtc-renbtc,29242,renBTC,15301.81,RENBTC,2.02011E+13
+57,9.94,/coin/jWvjEFGAtnhWN+0x-zrx,29044,0x,0.3904,ZRX,2.02011E+13
+58,0.53,/coin/0ossbC-EnOSY+husd-husd,28627,HUSD,0.9938,HUSD,2.02011E+13
+59,3.31,/coin/q9yo3-QDbH-lM+digibyte-dgb,27660,DigiByte,0.02014,DGB,2.02011E+13
+60,0.48,/coin/1ZZI6g5k5royD+trueusd-tusd,27177,TrueUSD,0.9947,TUSD,2.02011E+13
+61,4.63,/coin/Y4JFf53C0+energywebtoken-ewt,24657,Energy Web Token,7.86,EWT,2.02011E+13
+62,1.57,/coin/3dEOkxpEKhmBT+numeraire-nmr,24014,Numeraire,24.04,NMR,2.02011E+13
+63,6.33,/coin/3jmxrjOJ8xa4p+zilliqa-zil,23382,Zilliqa,0.01998,ZIL,2.02011E+13
+64,7.1,/coin/Of-8L640D+orchidprotocol-oxt,23286,Orchid Protocol,0.2329,OXT,2.02011E+13
+65,7.71,/coin/7q5-b6CZQ+bandprotocol-band,22771,Band Protocol,6.35,BAND,2.02011E+13
+66,0.22,/coin/fZBH2J_bFVMpq+insightchain-inb,21004,Insight Chain,1.23,INB,2.02011E+13
+67,2.23,/coin/aAKLSV5-0+oceanprotocol-ocean,21003,Ocean Protocol,0.5848,OCEAN,2.02011E+13
+68,7.15,/coin/Th7joXDkesUfn+ren-ren,20798,Ren,0.3457,REN,2.02011E+13
+69,1.21,/coin/bOm0xKUuDvCUu+qtum-qtum,20701,QTUM,2.01,QTUM,2.02011E+13
+70,17.85,/coin/mMPrMcB7+blockstack-stx,20242,Blockstack,0.2205,STX,2.02011E+13
+71,0.47,/coin/3cx3h5-CGPD4+bittorrent-btt,19321,BitTorrent,0.000293,BTT,2.02011E+13
+72,0.46,/coin/PZLtXypWXRmQ7+cryptonex-cnx,19012,Cryptonex,1.9,CNX,2.02011E+13
+73,0.93,/coin/jad286TjB+hederahashgraph-hbar,18944,Hedera HashGraph,0.0315,HBAR,2.02011E+13
+74,5.21,/coin/U70EVFnDc6diV+icon-icx,18890,ICON,0.3606,ICX,2.02011E+13
+75,6.17,/coin/1wJlqkxIpJKLN+decred-dcr,18699,Decred,15.29,DCR,2.02011E+13
+76,35.84,/coin/Au8mNo2ZIlJfL+loopring-lrc,18504,Loopring,0.2115,LRC,2.02011E+13
+77,9.78,/coin/SpWVy3vxSxnu4+kybernetwork-knc,17795,Kyber Network,0.8972,KNC,2.02011E+13
+78,19.36,/coin/tEf7-dnwV3BXS+decentraland-mana,17461,Decentraland,0.0855,MANA,2.02011E+13
+79,26.04,/coin/hqyKex9jsK15L+reserverightstoken-rsr,17296,Reserve Rights Token,0.01808,RSR,2.02011E+13
+80,6.41,/coin/_NvQ_iCjZu4Ay+storj-storj,15804,Storj,0.3776,STORJ,2.02011E+13
+81,13.9,/coin/ybmU-kKU+thorchain-rune,14712,ThorChain,0.6846,RUNE,2.02011E+13
+82,3.1,/coin/-8WmRrc-b_6dN+lisk-lsk,14333,Lisk,1.13,LSK,2.02011E+13
+83,6.26,/coin/bauj_21eYVwso+quant-qnt,13957,Quant,14.27,QNT,2.02011E+13
+84,0.57,/coin/hfw0nnnLtSFc7+gas-gas,13459,Gas,1.4,GAS,2.02011E+13
+85,0.28,/coin/2EBnWqhsi+nexusmutualtoken-nxm,13277,Nexus Mutual Token,18.86,NXM,2.02011E+13
+86,1.76,/coin/frw2fHgZ+tokenizexchange-tkx,12553,Tokenize Xchange,1.57,TKX,2.02011E+13
+87,2.78,/coin/1rnjJ1rInKP5K+bitcoingold-btg,12482,Bitcoin Gold,7.19,BTG,2.02011E+13
+88,4.52,/coin/y9op7QPvbLERt+siacoin-sc,12197,Siacoin,0.00271,SC,2.02011E+13
+89,6.66,/coin/LzC3fE0mO8okP+iost-iost,11598,IOST,0.00523,IOST,2.02011E+13
+90,4.85,/coin/Hi6jNXshVh9FA+nexo-nexo,11378,Nexo,0.1761,NEXO,2.02011E+13
+91,5.89,/coin/hG9iQlgtdwCvc+enjincoin-enj,10806,Enjin Coin,0.142,ENJ,2.02011E+13
+92,6.64,/coin/h6Bjn1mlb6Q2B+status-snt,10640,Status,0.02742,SNT,2.02011E+13
+93,12.63,/coin/zNZHO_Sjf+solana-sol,10427,Solana,2.27,SOL,2.02011E+13
+94,2.21,/coin/eFpCY2ATBkwOc+dxchaintoken-dx,10158,DxChain Token,0.00203,DX,2.02011E+13
+95,12.97,/coin/MvVrm09NjVxNR+aelf-elf,10023,aelf,0.116,ELF,2.02011E+13
+96,0.86,/coin/rcob7NHLyEr3p+nano-nano,9998,Nano,0.7503,NANO,2.02011E+13
+97,3.13,/coin/jxeDXwicOn_sp+golem-gnt,9966,Golem,0.1091,GNT,2.02011E+13
+98,2.64,/coin/jLaUgCS1sTQPt+cybervein-cvt,9908,CyberVein,0.0934,CVT,2.02011E+13
+99,7.49,/coin/Ru56fDlLB56-v+ravencoin-rvn,9884,Ravencoin,0.0133,RVN,2.02011E+13
+100,2.56,/coin/dxdb6-i4IQv87+bytom-btm,9621,Bytom,0.0589,BTM,2.02011E+13
+101,1.09,/coin/Uzf_Wjqc+bitpandaecosystemtoken-best,9488,Bitpanda Ecosystem Token,0.1032,BEST,2.02011E+13
+102,6.12,/coin/eW3wHxPmmwlNp+aragon-ant,9485,Aragon,3.26,ANT,2.02011E+13
+103,7.67,/coin/vu0nUKwNtoITi+powerledger-powr,9240,Power Ledger,0.097,POWR,2.02011E+13
+104,16.74,/coin/ql3Jj4Tge+sushi-sushi,9140,SUSHI,0.6828,SUSHI,2.02011E+13
+105,0.45,/coin/Vuy-IUC7+tethergold-xaut,9040,Tether Gold,1865.74,XAUT,2.02011E+13
+106,6.39,/coin/dvUj0CzDZ+avalanche-avax,8851,Avalanche,3.61,AVAX,2.02011E+13
+107,2.3,/coin/iEHCPwcxoIH8e+holo-hot,8482,Holo,0.000478,HOT,2.02011E+13
+108,18.66,/coin/tLXTkXU90vdjq+iexecrlc-rlc,8292,iExec RLC,1.04,RLC,2.02011E+13
+109,11.05,/coin/uW2tk-ILY0ii+maticnetwork-matic,8222,Matic Network,0.01728,MATIC,2.02011E+13
+110,1.45,/coin/m8qy4m7m1Ofpu+monacoin-mona,8001,MonaCoin,1.26,MONA,2.02011E+13
+111,1.49,/coin/fMNxR6LqdnRZp+uquidcoin-uqc,7756,Uquid Coin,7.76,UQC,2.02011E+13
+112,8.63,/coin/NXEHA2s6QvTyd+verge-xvg,7742,Verge,0.00473,XVG,2.02011E+13
+113,7.74,/coin/lb0YZfa1n+thetransfertoken-ttt,7713,The Transfer Token,1.73,TTT,2.02011E+13
+114,3.32,/coin/7GNq0jOgaN086+augur-rep,7682,Augur,14.47,REP,2.02011E+13
+115,10.74,/coin/2-3lP-dQ+kava-kava,7470,Kava,1.59,KAVA,2.02011E+13
+116,0.11,/coin/YRTkUcMi+paxgold-paxg,7367,PAX Gold,1889.46,PAXG,2.02011E+13
+117,1.38,/coin/wyDlinUzKv6S+bitica-bdcc,7259,Bitica,4.03,BDCC,2.02011E+13
+118,30.46,/coin/_izgytAQa-RbV+civic-cvc,7254,Civic,0.1083,CVC,2.02011E+13
+119,0.02,/coin/wPUcJNw024C_y+bitcoindiamond-bcd,6987,Bitcoin Diamond,0.4544,BCD,2.02011E+13
+120,0.85,/coin/77jGXSqWJ1ofG+xinfinnetwork-xdc,6970,XinFin Network,0.00571,XDC,2.02011E+13
+121,16.7,/coin/E-U6oZfh2+dfimoney-yfii,6946,DFI.money,1748.73,YFII,2.02011E+13
+122,19.12,/coin/Ef92bd8jZHyU6+everus-evr,6928,Everus,0.1325,EVR,2.02011E+13
+123,54.68,/coin/fvNj4j5lW+meta-mta,6905,Meta,1.52,MTA,2.02011E+13
+124,5.57,/coin/u-zlS61Rb+nestprotocol-nest,6848,Nest Protocol,0.0383,NEST,2.02011E+13
+125,0.96,/coin/LOO6LmXd7G84Z+kucoinshares-kcs,6816,KuCoin Shares,0.8443,KCS,2.02011E+13
+126,11.05,/coin/BgL4kP0ws+nervosnetwork-ckb,6723,Nervos Network,0.00315,CKB,2.02011E+13
+127,1.24,/coin/2GfzFhCU3+kardiachain-kai,6621,KardiaChain,0.01324,KAI,2.02011E+13
+128,26.07,/coin/QGbUTVMjG+curvedaotoken-crv,6585,Curve DAO Token,0.5801,CRV,2.02011E+13
+129,0.54,/coin/ibM9HStjIjQ5B+gnosis-gno,6425,Gnosis,58.17,GNO,2.02011E+13
+130,0.25,/coin/dr0q81vpX6EcN+inocoin-ino,6346,INO COIN,3.17,INO,2.02011E+13
+131,8.87,/coin/9DPRBMwQK36f+cream-cream,5998,Cream,45.42,CREAM,2.02011E+13
+132,6.43,/coin/oMn0Lpc4GrzXY+maidsafecoin-maid,5951,MaidSafe Coin,0.1315,MAID,2.02011E+13
+133,15.55,/coin/gDTpVbAhv+serum-srm,5900,Serum,1.18,SRM,2.02011E+13
+134,0.25,/coin/8EQUpW9UuEBo+susdsynthetix-susd,5785,sUSD Synthetix,0.9989,SUSD,2.02011E+13
+135,2.29,/coin/hEJCs2B9XeSu_+utrust-utk,5735,UTRUST,0.1275,UTK,2.02011E+13
+136,5.29,/coin/fXGcu_EzDgP25+steem-steem,5632,Steem,0.1536,STEEM,2.02011E+13
+137,1.58,/coin/ciJz5Cc1BfabD+ardor-ardr,5625,Ardor,0.0563,ARDR,2.02011E+13
+138,10.76,/coin/kZPku7cAdoaXf+swissborg-chsb,5565,SwissBorg,0.0966,CHSB,2.02011E+13
+139,6.85,/coin/dAN7Te6RJoWUf+komodo-kmd,5451,Komodo,0.4926,KMD,2.02011E+13
+140,6.74,/coin/il_9W9J71WMR8+stratis-strat,5395,Stratis,0.5393,STRAT,2.02011E+13
+141,2.5,/coin/htHKUfaaUP2dk+unibright-ubt,5370,Unibright,0.3855,UBT,2.02011E+13
+142,0.46,/coin/2SRzS3FCRUtP2+whitecoin-xwc,5363,WhiteCoin,0.2145,XWC,2.02011E+13
+143,11.22,/coin/oMBtIfxSwJO52+bancor-bnt,5278,Bancor,0.7464,BNT,2.02011E+13
+144,3.63,/coin/N5u-DrDeo8tUJ+bitshares-bts,5199,Bitshares,0.01918,BTS,2.02011E+13
+145,2.58,/coin/ceu_MD1iVEjJi+kin-kin,5059,Kin,0.0000242,KIN,2.02011E+13
+146,6.52,/coin/O8XYdenjI+hegic-hegic,4356,Hegic,0.1914,HEGIC,2.02011E+13
+147,5.61,/coin/8gLSooJeAVdnd+quarkchain-qkc,4295,QuarkChain,0.00506,QKC,2.02011E+13
+148,3.09,/coin/ZPBJkE5MVJKB0+centrality-cennz,4239,Centrality,0.0529,CENNZ,2.02011E+13
+149,24.31,/coin/uzUCYmcW73kQF+polymathnetwork-poly,4217,Polymath Network,0.058,POLY,2.02011E+13
+150,22.85,/coin/tD3EY9vP4eNDb+polybit-poly,4199,PolyBit,0.0584,POLY,2.02011E+13
+151,11.39,/coin/6ydPFFHAtthwU+origintrail-trac,4183,OriginTrail,0.1505,TRAC,2.02011E+13
+152,0.68,/coin/x8YtdPleokByp+constellation-dag,4033,Constellation,0.01008,DAG,2.02011E+13
+153,9.57,/coin/hkjDLHddC+wrappednxm-wnxm,4010,Wrapped NXM,23.52,WNXM,2.02011E+13
+154,4.17,/coin/iuERqbGNORQlq+pundix-npxs,3968,Pundi X,0.000168,NPXS,2.02011E+13
+155,0.05,/coin/CxmvOsCyENPso+zbtoken-zb,3956,ZB Token,0.2496,ZB,2.02011E+13
+156,3.53,/coin/zuls08q76PgNe+hypercash-hc,3920,HyperCash,0.8782,HC,2.02011E+13
+157,2.55,/coin/g3lUNXxxAnBlb+ark-ark,3880,ARK,0.3646,ARK,2.02011E+13
+158,99.22,/coin/jrxTIZusXvnoX+bitcoinatom-bca,3856,Bitcoin Atom,2.1,BCA,2.02011E+13
+159,13.38,/coin/GDFVoYSg-+tellor-trb,3848,Tellor,24.9,TRB,2.02011E+13
+160,1.22,/coin/ieHLSFYQDemsn+stasiseuro-eurs,3777,STASIS EURO,1.18,EURS,2.02011E+13
+161,9.01,/coin/Q2y948DXIqXS+solve-solve,3762,SOLVE,0.0977,SOLVE,2.02011E+13
+162,11.58,/coin/5Qp1OINA8ABad+horizen-zen,3484,Horizen,6.74,ZEN,2.02011E+13
+163,2.27,/coin/vh3IKoErsQ9T4+helleniccoin-hnc,3462,Hellenic Coin,0.4975,HNC,2.02011E+13
+164,19.13,/coin/f5hHgH6PhD7xU+district0x-dnt,3409,district0x,0.0568,DNT,2.02011E+13
+165,4.25,/coin/Kb7xrAfbJ0Qf3+zcoin-xzc,3401,Zcoin,3.37,XZC,2.02011E+13
+166,5.16,/coin/cO3IZ2ueIZlsH+tomochain-tomo,3390,TomoChain,0.6163,TOMO,2.02011E+13
+167,4.38,/coin/ZnXwbDH6M+xdaistake-stake,3381,xDAI Stake,10.17,STAKE,2.02011E+13
+168,2.24,/coin/hY7W7u5sB_neu+electroneum-etn,3378,Electroneum,0.00423,ETN,2.02011E+13
+169,26.5,/coin/IdrU0Gp2cK+originprotocol-ogn,3238,Origin protocol,0.168,OGN,2.02011E+13
+170,0.71,/coin/8_Vx2VNt-7YtZ+usdk-usdk,3226,USDK,0.9931,USDK,2.02011E+13
+171,6.59,/coin/MsEuUiOgwRs7a+digitexfutures-dgtx,3158,Digitex Futures,0.03385,DGTX,2.02011E+13
+172,3.51,/coin/BpsbnmV3Bhq9+ltonetwork-lto,3087,LTO Network,0.0765,LTO,2.02011E+13
+173,14.1,/coin/UbSjA5FFVXk5p+loomnetwork-loom,3087,Loom Network,0.03181,LOOM,2.02011E+13
+174,1.79,/coin/80NGUkVA1PJFD+streamrdatacoin-data,3044,Streamr DATAcoin,0.045,DATA,2.02011E+13
+175,3.41,/coin/BvGJZJobvNrih+wanchain-wan,2973,Wanchain,0.2801,WAN,2.02011E+13
+176,3.26,/coin/umM11dFs9+just-jst,2917,JUST,0.02034,JST,2.02011E+13
+177,8.6,/coin/P_mpFVxT3zC1-+aeternity-ae,2911,Aeternity,0.1064,AE,2.02011E+13
+178,3.98,/coin/mvkFElKf+nectartoken-nec,2903,Nectar Token,0.1658,NEC,2.02011E+13
+179,9.82,/coin/30yK7CT-uhhGy+ztcoin-zt,2839,ZTCoin,0.0568,ZT,2.02011E+13
+180,17.97,/coin/dvd-M5g8dL-1-+singularitynet-agi,2769,SingularityNET,0.0513,AGI,2.02011E+13
+181,4.12,/coin/mMt1EGjo4Eyac+funfair-fun,2764,FunFair,0.00422,FUN,2.02011E+13
+182,1.41,/coin/kmGGzflTwc8Q+ddkoin-ddk,2751,DDKoin,2.02,DDK,2.02011E+13
+183,2.68,/coin/71u0ElJ-Uq93k+adex-adx,2744,AdEx,0.2744,ADX,2.02011E+13
+184,13.27,/coin/ZiRElvGxqQaf+idex-idex,2586,IDEX,0.0481,IDEX,2.02011E+13
+185,1.79,/coin/BBWqxx2A+parsiq-prq,2573,PARSIQ,0.2049,PRQ,2.02011E+13
+186,2.44,/coin/ZbdTvGobTRFYp+everipedia-iq,2370,Everipedia,0.00237,IQ,2.02011E+13
+187,0.6,/coin/F_Yv9Cu7pPL3Y+kickcoin-kick,2333,KickCoin,0.0000185,KICK,2.02011E+13
+188,7.06,/coin/XE0GH8VNm+picklefinance-pickle,2307,Pickle Finance,21.44,PICKLE,2.02011E+13
+189,8.57,/coin/ohifeu_BjRMQf+ripiocreditnetwork-rcn,2285,Ripio Credit Network,0.0459,RCN,2.02011E+13
+190,0.45,/coin/FGF0T9HS_LuDw+avalon-ava,2284,Avalon,0.7794,AVA,2.02011E+13
+191,16.34,/coin/shjxZ0hQM+akropolis-akro,2246,Akropolis,0.01126,AKRO,2.02011E+13
+192,4.57,/coin/VNFxArVrIDDX0+cryptocom-mco,2182,Crypto.com,1.38,MCO,2.02011E+13
+193,4.68,/coin/aqvjCtCM9hUf_+gxshares-gxs,2177,GXShares,0.3628,GXS,2.02011E+13
+194,5.67,/coin/t8ctJQPSf+soratoken-xor,2165,Sora Token,61.85,XOR,2.02011E+13
+195,2.95,/coin/YeAkhzZF6NKPs+melon-mln,2164,Melon,21.7,MLN,2.02011E+13
+196,0.19,/coin/2nh5ugplNocUp+bitforextoken-bf,2138,BitForex Token,0.00214,BF,2.02011E+13
+197,21.51,/coin/lpC3SCDSR8n-h+raidennetworktoken-rdn,2135,Raiden Network Token,0.2135,RDN,2.02011E+13
+198,28.34,/coin/0S3u6FO1Q+bzxprotocol-bzrx,2106,bZx Protocol,0.1498,BZRX,2.02011E+13
+199,4.93,/coin/JtJkDgMHqgK1K+pivx-pivx,2087,PIVX,0.33,PIVX,2.02011E+13
+200,0.94,/coin/7jQZMFopX+universalmoneyinstrument-umi,2060,Universal Money Instrument,1,UMI,2.02011E+13
+201,16.42,/coin/XcGSBg2pO6MeB+bluzelle-blz,2045,Bluzelle,0.0818,BLZ,2.02011E+13
+202,3.9,/coin/eIX4bA6KNlwX4+switcheo-swth,2031,Switcheo,0.02902,SWTH,2.02011E+13
+203,26.49,/coin/CTwz1vB2LylBf+requestnetwork-req,1964,Request Network,0.02692,REQ,2.02011E+13
+204,0.84,/coin/GZfKmsEdP6KJo+dragonchain-drgn,1919,Dragonchain,0.0452,DRGN,2.02011E+13
+205,10.36,/coin/tBrpg-kJuqYb+beam-beam,1904,BEAM,0.2581,BEAM,2.02011E+13
+206,3.52,/coin/6QK-8hUZ+wazirx-wrx,1897,WazirX,0.0811,WRX,2.02011E+13
+207,11.28,/coin/kkBXmKGORfFvS+quantstamp-qsp,1689,Quantstamp,0.02735,QSP,2.02011E+13
+208,14.05,/coin/ylk8jNIDMgUmr+airswap-ast,1675,AirSwap,0.1117,AST,2.02011E+13
+209,3.05,/coin/VAQH4x5bBuBPj+crypterium-crpt,1669,Crypterium,0.2101,CRPT,2.02011E+13
+210,5.8,/coin/54G1Zo8zgXxSD+nimiq-nim,1663,Nimiq ,0.00277,NIM,2.02011E+13
+211,4.04,/coin/e4SYAApcejV6m+aurora-aoa,1636,Aurora,0.00164,AOA,2.02011E+13
+212,5.53,/coin/4UM6MucwFvYex+dent-dent,1628,Dent,0.000191,DENT,2.02011E+13
+213,0.25,/coin/EOSL_JJKNMEr+btsetoken-btse,1613,BTSE Token,2.29,BTSE,2.02011E+13
+214,4.69,/coin/FtSDbrt7Z+orionprotocol-orn,1587,Orion Protocol,1.78,ORN,2.02011E+13
+215,12.07,/coin/YZ5InJ0TiDj5+grin-grin,1532,Grin,0.268,GRIN,2.02011E+13
+216,3.42,/coin/T93ksC96YL_Gc+geminidollar-gusd,1485,Gemini dollar,1.04,GUSD,2.02011E+13
+217,67.86,/coin/ryVzVCkMi1m0p+enigma-eng,1481,Enigma,0.6215,ENG,2.02011E+13
+218,1.61,/coin/77SLLs3LuSGqA+elastos-ela,1425,Elastos,1.48,ELA,2.02011E+13
+219,7.74,/coin/1Zj-7usqiPA6-+nebulas-nas,1376,Nebulas,0.3025,NAS,2.02011E+13
+220,3.97,/coin/G1dqJwcbn2Rfy+groestlcoin-grs,1374,Groestlcoin ,0.1927,GRS,2.02011E+13
+221,6.07,/coin/3Rk7gOMM7+dforce-df,1366,dForce,0.0848,DF,2.02011E+13
+222,0.65,/coin/WdlqQFvk5CF9k+apollocurrency-apl,1353,Apollo Currency,0.000921,APL,2.02011E+13
+223,2.39,/coin/B9IldRcqMUZ2Z+populous-ppt,1307,Populous,0.2454,PPT,2.02011E+13
+224,1.23,/coin/kA9XXciGZAs8d+latoken-la,1296,LATOKEN,0.03243,LA,2.02011E+13
+225,4.63,/coin/z1af9AYOgPsN7+digixdao-dgd,1279,Digix DAO,88.13,DGD,2.02011E+13
+226,1.76,/coin/DCGfNDwbjTbtk+stakenet-xsn,1270,Stakenet,0.1174,XSN,2.02011E+13
+227,2.97,/coin/gwEFmWIMJGpmZ+ethos-ethos,1250,Ethos,0.1517,ETHOS,2.02011E+13
+228,0.59,/coin/RzGVuiI5+usdneutrino-usdn,1249,USD Neutrino,0.9937,USDN,2.02011E+13
+229,5.6,/coin/ZmHqwtWvkYkIM+moedaloyaltypoints-mda,1238,Moeda Loyalty Points,0.6308,MDA,2.02011E+13
+230,0.52,/coin/7_9YOqGczmAhq+molecularfuture-mof,1238,Molecular Future,0.1238,MOF,2.02011E+13
+231,12.59,/coin/eupYHs4BAI_YM+loki-loki,1188,Loki,0.3757,LOKI,2.02011E+13
+232,0.53,/coin/OsKAfpJRA+dmmgovernance-dmg,1171,DMM Governance,0.2439,DMG,2.02011E+13
+233,2.12,/coin/44fd6VfHauc5m+qash-qash,1169,QASH,0.03339,QASH,2.02011E+13
+234,2.91,/coin/phQvERqW5FD2_+einsteinium-emc2,1167,Einsteinium,0.0536,EMC2,2.02011E+13
+235,9.26,/coin/vLdnjGS6CZ3df+iotex-iotx,1125,IoTeX,0.00845,IOTX,2.02011E+13
+236,16.36,/coin/u_mkjBD5l+hathor-htr,1116,Hathor,0.1244,HTR,2.02011E+13
+237,9.42,/coin/O0cuOKCmXrKJg+nexus-nxs,1095,Nexus,0.1834,NXS,2.02011E+13
+238,4.74,/coin/rfIHB4cXI+ergo-erg,1071,ERGO,0.4002,ERG,2.02011E+13
+239,6.55,/coin/YdbKoRqvZhUjH+tenx-pay,1071,TenX,0.0522,PAY,2.02011E+13
+240,7.83,/coin/qnMor7zPsOj_g+ignis-ignis,1039,Ignis,0.02361,IGNIS,2.02011E+13
+241,12.69,/coin/CnvEkhyYxLR-r+seele-seele,1034,Seele,0.01711,SEELE,2.02011E+13
+242,1.82,/coin/6AMej49OJ18Wp+gamecredits-game,1027,Gamecredits,0.0557,GAME,2.02011E+13
+243,9.14,/coin/emlGSA0AJeIE9+quickxprotocol-qcx,1010,QuickX Protocol,0.02021,QCX,2.02011E+13
+244,3.76,/coin/izyvuzTCPBPrk+metal-mtl,1002,Metal,0.3081,MTL,2.02011E+13
+245,2.72,/coin/I_6DjYVak+powerpoolconcentratedvotingpower-cvp,995,PowerPool Concentrated Voting Power,1.7,CVP,2.02011E+13
+246,6.44,/coin/MshEDxjCn+pnetwork-pnt,987,pNetwork,0.3314,PNT,2.02011E+13
+247,1.99,/coin/y4eKT6KEw-Pxo+mainframe-mft,982,Mainframe,0.00249,MFT,2.02011E+13
+248,10.77,/coin/Z90WSKAjhslmJ+waltonchain-wtc,920,Waltonchain,0.3467,WTC,2.02011E+13
+249,6.64,/coin/U4LvclTgDHxtF+zap-zap,914,Zap,0.071,ZAP,2.02011E+13
+250,4.39,/coin/Tx_OZ6R4MhRpV+nxt-nxt,903,Nxt,0.00904,NXT,2.02011E+13
+251,3.56,/coin/rZuGmZmp83Ic+roobee-roobee,900,Roobee,0.00441,ROOBEE,2.02011E+13
+252,2.48,/coin/_pAoVOROc6CVt+aidoskuneen-adk,881,Aidos Kuneen,0.3522,ADK,2.02011E+13
+253,5.09,/coin/-YczEi0czYkdF+truechain-true,856,True Chain,0.1844,TRUE,2.02011E+13
+254,24.18,/coin/4mSRYH2MXYKX1+e-dinarcoin-edr,855,E-Dinar Coin,0.00965,EDR,2.02011E+13
+255,20.78,/coin/ROvV1mPHFZagw+morpheusnetwork-mrph,824,Morpheus.Network,0.2839,MRPH,2.02011E+13
+256,2.28,/coin/tK_9vumTRfvio+vertcoin-vtc,796,Vertcoin,0.1697,VTC,2.02011E+13
+257,22.77,/coin/JhzkiWS7oavC4+kcash-kcash,779,Kcash,0.02603,KCASH,2.02011E+13
+258,3.43,/coin/Dhh6TEhm1Poj3+dmarket-dmt,739,DMarket,0.1471,DMT,2.02011E+13
+259,9.82,/coin/dYrlRLv49YetE+navcoin-nav,738,NavCoin,0.1052,NAV,2.02011E+13
+260,4.34,/coin/A0-OwjDQq1UMf+vite-vite,738,VITE,0.01777,VITE,2.02011E+13
+261,1.3,/coin/3uQx0Z-3ooH9O+metaverseetp-etp,710,Metaverse ETP,0.1325,ETP,2.02011E+13
+262,6.23,/coin/NK81WIowi+dxdao-dxd,705,DXDao,143.53,DXD,2.02011E+13
+263,1.48,/coin/e16VEGnPn+yamfinance-yam,690,YAM Finance,0.7611,YAM,2.02011E+13
+264,14.28,/coin/kWY60DGYNhYKL+sirinlabs-srn,685,SirinLabs,0.01392,SRN,2.02011E+13
+265,18.53,/coin/uZqk3HAmFCsTG+casinocoin-csc,682,CasinoCoin,0.00019,CSC,2.02011E+13
+266,2.46,/coin/I3vtzj8Cmqm2q+breadtoken-brd,681,Bread Token,0.0768,BRD,2.02011E+13
+267,13.07,/coin/dbAbzE_C7wDzK+selfkey-key,647,SelfKey,0.00261,KEY,2.02011E+13
+268,0.69,/coin/RDOsLDgvY-AXe+bitkan-kan,644,BitKan,0.00204,KAN,2.02011E+13
+269,16.37,/coin/arQrIUT4r5IqY+linkeye-let,638,LinkEye,0.01064,LET,2.02011E+13
+270,12.23,/coin/7ur6cfa2crh-D+cashaa-cas,628,Cashaa,0.01095,CAS,2.02011E+13
+271,1.66,/coin/HPxiP0ifZRNzD+pluton-plu,623,Pluton,7.33,PLU,2.02011E+13
+272,2.04,/coin/2E7BN_FQ3qOX-+matrixainetwork-man,619,Matrix AI Network,0.02476,MAN,2.02011E+13
+273,6.84,/coin/ho1LCP6OS6ZHc+genesisvision-gvt,608,Genesis Vision,1.38,GVT,2.02011E+13
+274,1.84,/coin/xCBPyFT2TTdfP+dentacoin-dcn,595,Dentacoin,0.0000046,DCN,2.02011E+13
+275,8.78,/coin/qemBiPqr5eodB+gifto-gto,586,Gifto,0.01101,GTO,2.02011E+13
+276,0.51,/coin/Gb9cPpSZNwhTb+mvl-mvl,582,MVL,0.001176,MVL,2.02011E+13
+277,1.56,/coin/DDZt-yKX1Fo7U+telcoin-tel,576,Telcoin,0.000166,TEL,2.02011E+13
+278,1.79,/coin/EXwA8aJv27W98+midnight-mdt,573,Midnight,0.01392,MDT,2.02011E+13
+279,8.46,/coin/CLdxWrrZn9jxS+biboxtoken-bix,571,Bibox Token,0.0558,BIX,2.02011E+13
+280,11.61,/coin/glOwmnns_bbaI+genaronetwork-gnx,564,Genaro Network,0.01583,GNX,2.02011E+13
+281,4.34,/coin/kE0BUPLLo+lien-lien,562,Lien,35.1,LIEN,2.02011E+13
+282,2.16,/coin/bvUz4mBGQ+statera-sta,561,Statera,0.0659,STA,2.02011E+13
+283,11.16,/coin/WIkpek3ugQw2j+blockport-bpt,553,Blockport,0.1046,BPT,2.02011E+13
+284,6.08,/coin/zkyhJC3viKO_n+iotchain-itc,552,IoT Chain,0.0882,ITC,2.02011E+13
+285,7.12,/coin/u0JllsU8KXYF2+dock-dock,547,Dock,0.01264,DOCK,2.02011E+13
+286,2.34,/coin/0GvBYGJMST8IO+daostack-gen,545,DAOstack,0.1423,GEN,2.02011E+13
+287,0.68,/coin/k9h897qOXwXqi+bftoken-bft,534,BF Token,0.00847,BFT,2.02011E+13
+288,7.68,/coin/zhlXyDdtv73vs+neblio-nebl,532,Neblio,0.3871,NEBL,2.02011E+13
+289,9.24,/coin/6HUT6i-KHe4hY+likecoin-like,529,LikeCoin,0.008,LIKE,2.02011E+13
+290,3.58,/coin/eZaNrH39Loi6z+odem-ode,528,ODEM,0.02423,ODE,2.02011E+13
+291,14.34,/coin/i75In93Dn5d8P+0chain-zcn,522,0chain,0.1306,ZCN,2.02011E+13
+292,6.04,/coin/z4rmNtG4Hkpur+timenewbank-tnb,514,Time New Bank,0.00209,TNB,2.02011E+13
+293,2.28,/coin/RaeqeanDjqa17+propy-pro,510,Propy,0.0895,PRO,2.02011E+13
+294,0.89,/coin/_T4P-xr_1A7rN+iqeon-iqn,496,IQeon,1.83,IQN,2.02011E+13
+295,15.23,/coin/LjR-NyhjF_LVw+newkindofnetwork-nkn,489,New Kind of Network,0.02412,NKN,2.02011E+13
+296,18.04,/coin/04XtM9nSg+hakkafinance-hakka,482,Hakka Finance,0.0402,HAKKA,2.02011E+13
+297,5.54,/coin/8_wzGG_0c56uN+achain-act,475,Achain,0.00632,ACT,2.02011E+13
+298,16.58,/coin/gQ93vVAyVh2zq+blox-cdt,473,Blox,0.0072,CDT,2.02011E+13
+299,6.08,/coin/JIa3Y6M-ZdTDW+everex-evx,472,Everex,0.2862,EVX,2.02011E+13
+300,4.59,/coin/NfeOYfNcl+ftxtoken-ftt,34192,FTX Token,3.7,FTT,2.02011E+13
+301,0.33,/coin/bu0VTIyFnnh1u+revain-rev,31896,Revain,0.01047,REV,2.02011E+13
+302,5.58,/coin/ePlOuwd_e+kusama-ksm,31223,Kusama,34.77,KSM,2.02011E+13
+303,3.7,/coin/itpeyyriqoiG2+ontology-ont,30902,Ontology,0.4849,ONT,2.02011E+13
+304,3.56,/coin/AaQUAs2Mc+terra-luna,30801,Terra,0.3087,LUNA,2.02011E+13
+305,5.64,/coin/pOnT-qfd-RN7W+basicattentiontoken-bat,30782,Basic Attention Token,0.206,BAT,2.02011E+13
+306,0.87,/coin/45H4HIbe2+renbtc-renbtc,29253,renBTC,15307.45,RENBTC,2.02011E+13
+307,10,/coin/jWvjEFGAtnhWN+0x-zrx,29059,0x,0.3906,ZRX,2.02011E+13
+308,0.5,/coin/0ossbC-EnOSY+husd-husd,28636,HUSD,0.9941,HUSD,2.02011E+13
+309,3.28,/coin/q9yo3-QDbH-lM+digibyte-dgb,27670,DigiByte,0.02015,DGB,2.02011E+13
+310,0.45,/coin/1ZZI6g5k5royD+trueusd-tusd,27186,TrueUSD,0.995,TUSD,2.02011E+13
+311,4.67,/coin/Y4JFf53C0+energywebtoken-ewt,24666,Energy Web Token,7.87,EWT,2.02011E+13
+312,1.61,/coin/3dEOkxpEKhmBT+numeraire-nmr,24023,Numeraire,24.05,NMR,2.02011E+13
+313,6.36,/coin/3jmxrjOJ8xa4p+zilliqa-zil,23390,Zilliqa,0.01998,ZIL,2.02011E+13
+314,7.2,/coin/Of-8L640D+orchidprotocol-oxt,23307,Orchid Protocol,0.2331,OXT,2.02011E+13
+315,7.75,/coin/7q5-b6CZQ+bandprotocol-band,22780,Band Protocol,6.35,BAND,2.02011E+13
+316,2.27,/coin/aAKLSV5-0+oceanprotocol-ocean,21010,Ocean Protocol,0.585,OCEAN,2.02011E+13
+317,0.25,/coin/fZBH2J_bFVMpq+insightchain-inb,21010,Insight Chain,1.23,INB,2.02011E+13
+318,7.19,/coin/Th7joXDkesUfn+ren-ren,20806,Ren,0.3459,REN,2.02011E+13
+319,1.24,/coin/bOm0xKUuDvCUu+qtum-qtum,20707,QTUM,2.01,QTUM,2.02011E+13
+320,17.91,/coin/mMPrMcB7+blockstack-stx,20252,Blockstack,0.2206,STX,2.02011E+13
+321,0.5,/coin/3cx3h5-CGPD4+bittorrent-btt,19327,BitTorrent,0.000293,BTT,2.02011E+13
+322,0.34,/coin/PZLtXypWXRmQ7+cryptonex-cnx,18988,Cryptonex,1.9,CNX,2.02011E+13
+323,0.96,/coin/jad286TjB+hederahashgraph-hbar,18950,Hedera HashGraph,0.03151,HBAR,2.02011E+13
+324,5.25,/coin/U70EVFnDc6diV+icon-icx,18897,ICON,0.3607,ICX,2.02011E+13
+325,6.15,/coin/1wJlqkxIpJKLN+decred-dcr,18703,Decred,15.29,DCR,2.02011E+13
+326,35.7,/coin/Au8mNo2ZIlJfL+loopring-lrc,18485,Loopring,0.2113,LRC,2.02011E+13
+327,9.82,/coin/SpWVy3vxSxnu4+kybernetwork-knc,17801,Kyber Network,0.8975,KNC,2.02011E+13
+328,19.33,/coin/tEf7-dnwV3BXS+decentraland-mana,17468,Decentraland,0.0855,MANA,2.02011E+13
+329,26.08,/coin/hqyKex9jsK15L+reserverightstoken-rsr,17301,Reserve Rights Token,0.01809,RSR,2.02011E+13
+330,6.43,/coin/_NvQ_iCjZu4Ay+storj-storj,15807,Storj,0.3776,STORJ,2.02011E+13
+331,13.94,/coin/ybmU-kKU+thorchain-rune,14716,ThorChain,0.6848,RUNE,2.02011E+13
+332,3.15,/coin/-8WmRrc-b_6dN+lisk-lsk,14339,Lisk,1.14,LSK,2.02011E+13
+333,6.3,/coin/bauj_21eYVwso+quant-qnt,13962,Quant,14.28,QNT,2.02011E+13
+334,0.6,/coin/hfw0nnnLtSFc7+gas-gas,13462,Gas,1.4,GAS,2.02011E+13
+335,0.62,/coin/2EBnWqhsi+nexusmutualtoken-nxm,13158,Nexus Mutual Token,18.69,NXM,2.02011E+13
+336,3.33,/coin/frw2fHgZ+tokenizexchange-tkx,12747,Tokenize Xchange,1.59,TKX,2.02011E+13
+337,2.75,/coin/1rnjJ1rInKP5K+bitcoingold-btg,12486,Bitcoin Gold,7.19,BTG,2.02011E+13
+338,4.55,/coin/y9op7QPvbLERt+siacoin-sc,12201,Siacoin,0.00271,SC,2.02011E+13
+339,6.7,/coin/LzC3fE0mO8okP+iost-iost,11602,IOST,0.00523,IOST,2.02011E+13
+340,4.92,/coin/Hi6jNXshVh9FA+nexo-nexo,11386,Nexo,0.1762,NEXO,2.02011E+13
+341,5.94,/coin/hG9iQlgtdwCvc+enjincoin-enj,10811,Enjin Coin,0.142,ENJ,2.02011E+13
+342,6.64,/coin/h6Bjn1mlb6Q2B+status-snt,10640,Status,0.02742,SNT,2.02011E+13
+343,12.67,/coin/zNZHO_Sjf+solana-sol,10430,Solana,2.27,SOL,2.02011E+13
+344,2.35,/coin/eFpCY2ATBkwOc+dxchaintoken-dx,10172,DxChain Token,0.00203,DX,2.02011E+13
+345,12.88,/coin/MvVrm09NjVxNR+aelf-elf,10015,aelf,0.1159,ELF,2.02011E+13
+346,0.9,/coin/rcob7NHLyEr3p+nano-nano,10002,Nano,0.7506,NANO,2.02011E+13
+347,3.16,/coin/jxeDXwicOn_sp+golem-gnt,9969,Golem,0.1092,GNT,2.02011E+13
+348,2.61,/coin/jLaUgCS1sTQPt+cybervein-cvt,9911,CyberVein,0.0935,CVT,2.02011E+13
+349,7.51,/coin/Ru56fDlLB56-v+ravencoin-rvn,9885,Ravencoin,0.0133,RVN,2.02011E+13
+350,9.86,/coin/9ZAsxbjqI+stafi-fis,459,Stafi,0.7925,FIS,2.02011E+13
+351,0.03,/coin/nLHHPBKDJSEee+bit-ztoken-bz,459,Bit-Z Token,0.1021,BZ,2.02011E+13
+352,13.82,/coin/d8HC_kAnxV1nd+wabi-wabi,458,WaBi,0.0872,WABI,2.02011E+13
+353,0.61,/coin/oXK95bH4OIUoj+singlecollateraldai-sai,457,Single Collateral Dai,1,SAI,2.02011E+13
+354,16,/coin/tGXF3WYI6pUsO+poanetwork-poa,457,POA Network,0.02074,POA,2.02011E+13
+355,1.81,/coin/BC-_tLM0kYxLZ+allsports-soc,449,All Sports,0.00306,SOC,2.02011E+13
+356,0.09,/coin/Wlt465wE9+jarvisrewardtoken-jrt,447,Jarvis Reward Token,0.0502,JRT,2.02011E+13
+357,1.26,/coin/kVEZYPoF-nPPH+lbrycredits-lbc,446,LBRY Credits,0.02166,LBC,2.02011E+13
+358,3.18,/coin/d7h5lOHNhJKFp+suncontract-snc,442,SunContract,0.0369,SNC,2.02011E+13
+359,5.38,/coin/EFvQK07yORgQz+vibe-vibe,440,VIBE,0.0169,VIBE,2.02011E+13
+360,8.88,/coin/rauWiZLXK-hjV+wepower-wpr,426,WePower,0.00835,WPR,2.02011E+13
+361,2.75,/coin/lJnoujJEq3us8+mithril-mith,423,Mithril,0.00546,MITH,2.02011E+13
+362,5.03,/coin/z1VVxbAp1+rarible-rari,422,Rarible,2.02,RARI,2.02011E+13
+363,0.06,/coin/VpoGHZfpJWdKQ+sentinelprotocol-upp,419,Sentinel Protocol,0.01841,UPP,2.02011E+13
+364,3.14,/coin/0i5DkWKQ16ZJB+skycoin-sky,413,Skycoin,0.4128,SKY,2.02011E+13
+365,2.43,/coin/fsD3lF3ugL8A_+digixgoldtoken-dgx,412,Digix Gold Token,59.2,DGX,2.02011E+13
+366,0.15,/coin/v1BXyk-fEWEB5+qlcchain-qlc,409,QLC Chain,0.01702,QLC,2.02011E+13
+367,1.06,/coin/McDqIrrf+xionetwork-xio,402,XIO Network,0.2068,XIO,2.02011E+13
+368,19.94,/coin/n9zl80RcRJtDw+singulardtv-sngls,401,SingularDTV,0.00668,SNGLS,2.02011E+13
+369,6.86,/coin/e2Xy-G9v2Mg2r+tokenclub-tct,398,TokenClub,0.00826,TCT,2.02011E+13
+370,22.63,/coin/IAN7H-tm7+swervedaotoken-swrv,389,Swerve DAO Token,0.519,SWRV,2.02011E+13
+371,8.49,/coin/Mpqxdg7GV9bgx+swftcoin-swftc,388,SwftCoin,0.001065,SWFTC,2.02011E+13
+372,7.29,/coin/EFIhmrbxi3aRw+sonm-snm,387,SONM,0.01076,SNM,2.02011E+13
+373,0.94,/coin/uqwE2rwRq5y0+huobipooltoken-hpt,377,Huobi Pool Token,0.00354,HPT,2.02011E+13
+374,11.44,/coin/ppJXAvuHwAoan+cred-lba,373,Cred,0.00879,LBA,2.02011E+13
+375,4.24,/coin/u5K_1NLtARYCy+ruff-ruff,363,Ruff,0.00386,RUFF,2.02011E+13
+376,3.77,/coin/GnibiQdl-Tok4+highperformanceblockchain-hpb,349,High Performance Blockchain,0.0936,HPB,2.02011E+13
+377,6.17,/coin/uYlOAlNYrJv_t+phantasma-soul,330,Phantasma,0.0634,SOUL,2.02011E+13
+378,4.24,/coin/Gk7OCHARGTGXN+refereum-rfr,330,Refereum,0.00138,RFR,2.02011E+13
+379,3.95,/coin/G8qtAZEWLuOiC+hashgard-gard,320,Hashgard,0.000223,GARD,2.02011E+13
+380,3.53,/coin/nmMYB5VQgb_VT+bezant-bznt,318,Bezant,0.00648,BZNT,2.02011E+13
+381,1.88,/coin/Wc0yq-ZaIHf4n+hoqu-hqx,310,HOQU,0.00419,HQX,2.02011E+13
+382,5.45,/coin/PKx4tNEe8vCsF+mossland-moc,302,Mossland,0.01786,MOC,2.02011E+13
+383,4.26,/coin/W81us83bw+boeing-ba,301,Boeing,190.09,BA,2.02011E+13
+384,8.3,/coin/ZtpI55mZ0VUbt+hedgecoin-hedg,299,Hedgecoin,0.8052,HEDG,2.02011E+13
+385,2.83,/coin/9jgCbgZ_J9mj-+dero-dero,288,Dero,0.5121,DERO,2.02011E+13
+386,6.66,/coin/r07yy3PyFOV8G+medishares-mds,288,MediShares,0.00279,MDS,2.02011E+13
+387,26.97,/coin/3nMM61qeg+mcdex-mcb,286,MCDex,1.42,MCB,2.02011E+13
+388,5.34,/coin/kzQJNxsjyuyYO+viberate-vib,286,Viberate,0.01609,VIB,2.02011E+13
+389,5.28,/coin/M16JR0w3818ab+rotharium-rth,284,Rotharium,0.847,RTH,2.02011E+13
+390,54.59,/coin/y9FTy8donQIwV+starta-sta,283,Starta,0.566,STA,2.02011E+13
+391,0.52,/coin/d6gp9wQAt+rupiahtoken-idrt,282,Rupiah Token,0.000071,IDRT,2.02011E+13
+392,8.18,/coin/SDG72ei_TrMST+odyssey-ocn,278,Odyssey,0.000278,OCN,2.02011E+13
+393,1.94,/coin/mIZCJ4ErTWOKa+zrcoin-zrc,276,ZrCoin,0.7042,ZRC,2.02011E+13
+394,5.02,/coin/4j6DWn8N19SGw+appcoins-appc,272,AppCoins,0.0272,APPC,2.02011E+13
+395,1.3,/coin/IVw3RZM9qynPL+simpletoken-ost,270,Simple Token,0.00936,OST,2.02011E+13
+396,0.15,/coin/Vnk-4lXhL+cachegold-cgt,265,CACHE Gold,59.99,CGT,2.02011E+13
+397,7.54,/coin/mFSwkjYWd+frontiertoken-front,262,Frontier Token,0.2206,FRONT,2.02011E+13
+398,0.7,/coin/VpvpXyob_5qIE+egretia-egt,260,Egretia,0.000814,EGT,2.02011E+13
+399,0.25,/coin/NFKj0dpULBcqZ+acuteanglecloud-aac,260,Acute Angle Cloud,0.01041,AAC,2.02011E+13
