@@ -24,9 +24,9 @@ for one_file_name in glob.glob("midterm_html_files/*.html"):
 			currency_price = currency_columns[3].find("a", {"class": "cmc-link"}).text.replace("$","").replace(",","")
 			currency_logo = currency_columns[2].find("img")
 			currency_name = currency_columns[2].find("p").text
-			currency_trading_volume = currency_columns[7].find("p").text
+			currency_trading_volume = currency_columns[7].find("p").text.replace("$","").replace(",","")
 			currency_symbol = currency_columns[2].find("p", {"class": "coin-item-symbol"}).text
-			currency_24hr_growth = currency_columns[4].find("span").text
+			currency_24hr_growth = currency_columns[4].find("span").text.replace("%","").replace(",","")
 			currency_marketcap = currency_columns[6].find("p").text.replace("$","").replace(",","")
 			currency_link = currency_columns[2].find("a")["href"]
 			df = df.append({
